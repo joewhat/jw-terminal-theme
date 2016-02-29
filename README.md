@@ -1,2 +1,2 @@
 # jw-terminal-theme
-my terminal theme
+theme for terminal.app on OS X
